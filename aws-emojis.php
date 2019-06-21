@@ -19,17 +19,17 @@ $map = array(
     'simpleemailserviceses' => 'ses',
     'databasemigrationservice' => 'dms',
     'databasemigrationservice' => 'dms',
-    'quantumledgerdatabase_qldb' => 'qldb',
+    'quantumledgerdatabaseqldb' => 'qldb',
     'commandlineinterface' => 'cli',
-    'appstream2.0' => 'appstream',
+    'appstream20' => 'appstream',
     'applicationdiscoveryservice' => 'ads',
-    'identityandaccessmanagement_iam' => 'iam',
+    'identityandaccessmanagementiam' => 'iam',
     'keymanagementservice' => 'kms',
     'resourceaccessmanager' => 'ram',
     'singlesignon' => 'sso',
     'elasticblockstoreebs' => 'ebs',
-    'elasticfilesystem_efs' => 'efs',
-    'simplestorageservices3' => 's3',
+    'elasticfilesystemefs' => 'efs',
+    'simplestorageservices3' => 's3',
     's3glacier' => 'glacier',
     'elasticsearchservice' => 'es',
 );
@@ -47,8 +47,11 @@ foreach($subdirs as $subdir) {
         foreach($files as $file) {
             //If the file matches the pattern we're looking for, turn it into an emoji
             if(preg_match($pattern, $file, $match)) {
-                //Don't like dashes
-                $emoji = utf8_encode(str_replace("-", "", strtolower($match[2])));
+                //Filter bad characters
+                $emoji = strtolower($match[2]);
+                if(preg_filter('/[^a-z0-9]/','',$emoji) != false)
+                    $emoji = preg_filter('/[^a-z0-9]/','',$emoji);
+
                 //If it's in the manual map above, replace it.
                 if(isset($map[$emoji])) {
                     $emoji = $map[$emoji];

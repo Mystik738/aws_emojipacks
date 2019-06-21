@@ -97,8 +97,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/directoryservice.png
 - name: dms
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/dms.png
-- name: documentdbwithmongodbcompatibility
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/documentdbwithmongodbcompatibility.png
+- name: documentdbwithmongodbcompatibility
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/documentdbwithmongodbcompatibility.png
 - name: dynamodb
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/dynamodb.png
 - name: ebs
@@ -123,18 +123,16 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elasticinference.png
 - name: elastictranscoder
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elastictranscoder.png
-- name: elementalmedialive
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmedialive.png
-- name: elementalmediapackage
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediapackage.png
-- name: elementalmediastore
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediastore.png
-- name: elementalmediatailor
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediatailor.png
 - name: elementalmediaconnect
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediaconnect.png
 - name: elementalmedialive
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmedialive.png
+- name: elementalmediapackage
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediapackage.png
+- name: elementalmediastore
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediastore.png
+- name: elementalmediatailor
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediatailor.png
 - name: emr
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/emr.png
 - name: es
@@ -169,8 +167,6 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iam.png
 - name: inspector
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/inspector.png
-- name: iotdevicemanagement
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotdevicemanagement.png
 - name: iot1click
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iot1click.png
 - name: iotanalytics
@@ -181,6 +177,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotcore.png
 - name: iotdevicedefender
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotdevicedefender.png
+- name: iotdevicemanagement
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotdevicemanagement.png
 - name: iotevents
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotevents.png
 - name: iotgreengrass
@@ -245,8 +243,6 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/polly.png
 - name: privatelink
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/privatelink.png
-- name: qldb
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/qldb.png
 - name: quantumledgerdatabaseqldb
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/quantumledgerdatabaseqldb.png
 - name: quicksight

@@ -5,14 +5,10 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/amplify.png
 - name: apigateway
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/apigateway.png
-- name: apigateway
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/apigateway.png
 - name: appmesh
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appmesh.png
 - name: appstream
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appstream.png
-- name: appsync
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appsync.png
 - name: appsync
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appsync.png
 - name: artifact
@@ -33,8 +29,6 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/certificatemanager.png
 - name: chime
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/chime.png
-- name: cli
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cli.png
 - name: cli
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cli.png
 - name: clientvpn
@@ -83,8 +77,6 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/costexplorer.png
 - name: costmanagement
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/costmanagement.png
-- name: databasemigrationservice
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/databasemigrationservice.png
 - name: datapipeline
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/datapipeline.png
 - name: datasync
@@ -207,8 +199,6 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesisdatastreams.png
 - name: kinesisvideostreams
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesisvideostreams.png
-- name: kinesisvideostreams
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesisvideostreams.png
 - name: kms
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kms.png
 - name: lakeformation
@@ -251,8 +241,6 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/personalize.png
 - name: pinpoint
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/pinpoint.png
-- name: pinpoint
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/pinpoint.png
 - name: polly
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/polly.png
 - name: privatelink
@@ -269,8 +257,6 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rds.png
 - name: rdsonvmware
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rdsonvmware.png
-- name: redshift
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/redshift.png
 - name: redshift
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/redshift.png
 - name: rekognition
@@ -303,14 +289,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sitetositevpn.png
 - name: snowball
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowball.png
-- name: snowball
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowball.png
 - name: snowballedge
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowballedge.png
-- name: snowballedge
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowballedge.png
-- name: snowmobile
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowmobile.png
 - name: snowmobile
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowmobile.png
 - name: sns

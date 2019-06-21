@@ -4,14 +4,10 @@
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/amplify.png
 - name: aws-apigateway
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/apigateway.png
-- name: aws-apigateway
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/apigateway.png
 - name: aws-appmesh
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appmesh.png
 - name: aws-appstream
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appstream.png
-- name: aws-appsync
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appsync.png
 - name: aws-appsync
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appsync.png
 - name: aws-artifact
@@ -32,8 +28,6 @@
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/certificatemanager.png
 - name: aws-chime
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/chime.png
-- name: aws-cli
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cli.png
 - name: aws-cli
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cli.png
 - name: aws-clientvpn
@@ -82,8 +76,6 @@
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/costexplorer.png
 - name: aws-costmanagement
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/costmanagement.png
-- name: aws-databasemigrationservice
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/databasemigrationservice.png
 - name: aws-datapipeline
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/datapipeline.png
 - name: aws-datasync
@@ -206,8 +198,6 @@
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesisdatastreams.png
 - name: aws-kinesisvideostreams
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesisvideostreams.png
-- name: aws-kinesisvideostreams
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesisvideostreams.png
 - name: aws-kms
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kms.png
 - name: aws-lakeformation
@@ -250,8 +240,6 @@
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/personalize.png
 - name: aws-pinpoint
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/pinpoint.png
-- name: aws-pinpoint
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/pinpoint.png
 - name: aws-polly
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/polly.png
 - name: aws-privatelink
@@ -268,8 +256,6 @@
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rds.png
 - name: aws-rdsonvmware
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rdsonvmware.png
-- name: aws-redshift
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/redshift.png
 - name: aws-redshift
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/redshift.png
 - name: aws-rekognition
@@ -302,14 +288,8 @@
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sitetositevpn.png
 - name: aws-snowball
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowball.png
-- name: aws-snowball
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowball.png
 - name: aws-snowballedge
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowballedge.png
-- name: aws-snowballedge
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowballedge.png
-- name: aws-snowmobile
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowmobile.png
 - name: aws-snowmobile
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowmobile.png
 - name: aws-sns

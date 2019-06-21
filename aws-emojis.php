@@ -18,6 +18,7 @@ $map = array(
     'elasticcontainerservice' => 'ecs',
     'simpleemailserviceses' => 'ses',
     'databasemigrationservice' => 'dms',
+    'databasemigrationservice' => 'dms',
     'quantumledgerdatabase_qldb' => 'qldb',
     'commandlineinterface' => 'cli',
     'appstream2.0' => 'appstream',
@@ -47,18 +48,20 @@ foreach($subdirs as $subdir) {
             //If the file matches the pattern we're looking for, turn it into an emoji
             if(preg_match($pattern, $file, $match)) {
                 //Don't like dashes
-                $emoji = str_replace("-", "", strtolower($match[2]));
+                $emoji = utf8_encode(str_replace("-", "", strtolower($match[2])));
                 //If it's in the manual map above, replace it.
                 if(isset($map[$emoji])) {
                     $emoji = $map[$emoji];
                 }
 
                 //Add it to our array of emojis
-                $emojis[] = $emoji;
+                if(!isset($emojis[$emoji])) {
+                    $emojis[$emoji] = $emoji;
 
-                //move it to our emoji directory.
-                $file_loc =  $dir.$subdir.'/'.$file;
-                copy($file_loc, $emoji_dir.$emoji.".png");
+                    //move it to our emoji directory.
+                    $file_loc =  $dir.$subdir.'/'.$file;
+                    copy($file_loc, $emoji_dir.$emoji.".png");
+                }
             }
         }
 

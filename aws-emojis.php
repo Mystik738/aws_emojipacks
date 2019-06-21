@@ -75,6 +75,7 @@ sort($emojis);
 $npyml = fopen('noprefix-emojipacks.yml', 'w');
 $yml = fopen('aws-emojipacks.yml', 'w');
 fwrite($npyml, "emojis:\n");
+fwrite($yml, "emojis:\n");
 foreach($emojis as $emoji) {
     fwrite($npyml, "- name: $emoji\n  src: $emoji_url".$emoji.".png\n");
     fwrite($yml, "- name: aws-$emoji\n  src: $emoji_url".$emoji.".png\n");

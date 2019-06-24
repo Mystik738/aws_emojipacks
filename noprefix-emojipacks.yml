@@ -161,8 +161,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediatailor.png
 - name: emr
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/emr.png
-- name: es
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/es.png
+- name: ess
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ess.png
 - name: fargate
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/fargate.png
 - name: firewallmanager
@@ -293,8 +293,6 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/quantumledgerdatabaseqldb.png
 - name: quicksight
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/quicksight.png
-- name: ram
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ram.png
 - name: rds
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rds.png
 - name: rdsonvmware
@@ -305,6 +303,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rekognition.png
 - name: reservedinstancereporting
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/reservedinstancereporting.png
+- name: resourceaccessmanager
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/resourceaccessmanager.png
 - name: robomaker
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/robomaker.png
 - name: robotics
@@ -331,8 +331,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/servicecatalog.png
 - name: ses
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ses.png
-- name: shield
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/shield.png
+- name: aws-shield
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/aws-shield.png
 - name: sic
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sic.png
 - name: sitetositevpn

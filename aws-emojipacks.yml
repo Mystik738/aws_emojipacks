@@ -161,8 +161,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediatailor.png
 - name: aws-emr
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/emr.png
-- name: aws-es
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/es.png
+- name: aws-ess
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ess.png
 - name: aws-fargate
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/fargate.png
 - name: aws-firewallmanager
@@ -293,8 +293,6 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/quantumledgerdatabaseqldb.png
 - name: aws-quicksight
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/quicksight.png
-- name: aws-ram
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ram.png
 - name: aws-rds
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rds.png
 - name: aws-rdsonvmware
@@ -305,6 +303,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rekognition.png
 - name: aws-reservedinstancereporting
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/reservedinstancereporting.png
+- name: aws-resourceaccessmanager
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/resourceaccessmanager.png
 - name: aws-robomaker
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/robomaker.png
 - name: aws-robotics

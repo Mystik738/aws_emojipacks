@@ -25,17 +25,21 @@ $map = array(
     'applicationdiscoveryservice' => 'ads',
     'identityandaccessmanagementiam' => 'iam',
     'keymanagementservice' => 'kms',
-    'resourceaccessmanager' => 'ram',
     'singlesignon' => 'sso',
     'elasticblockstoreebs' => 'ebs',
     'elasticfilesystemefs' => 'efs',
     'simplestorageservices3' => 's3',
     's3glacier' => 'glacier',
-    'elasticsearchservice' => 'es',
+    'elasticsearchservice' => 'ess',
     'elasticloadbalancing' => 'elb',
     'internetofthings' => 'iot',
     'machinelearning' => 'ml',
     'securityidentityandcompliance' => 'sic',
+);
+
+//If there are any conflicts with stock emojis, list them here so they'll get prefixed regardless.
+$conflicts = array(
+    'shield'
 );
 
 $emojis = array();
@@ -84,8 +88,11 @@ $yml = fopen('aws-emojipacks.yml', 'w');
 fwrite($npyml, "emojis:\n");
 fwrite($yml, "emojis:\n");
 foreach($emojis as $emoji) {
-    fwrite($npyml, "- name: $emoji\n  src: $emoji_url".$emoji.".png\n");
     fwrite($yml, "- name: aws-$emoji\n  src: $emoji_url".$emoji.".png\n");
+    if(in_array($emoji, $conflicts)) {
+        $emoji = 'aws-'.$emoji;
+    }
+    fwrite($npyml, "- name: $emoji\n  src: $emoji_url".$emoji.".png\n");
 }
 fclose($npyml);
 fclose($yml);

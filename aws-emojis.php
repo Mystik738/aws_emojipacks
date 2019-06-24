@@ -7,7 +7,7 @@ $emoji_dir = 'emojis/';
 $emoji_url = 'https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/';
 
 $subdirs = scandir($dir);
-$pattern = '/(AWS|Amazon)-(.*)(?<!(bg|_1))@4x\.png/';
+$pattern = '/(AWS-|Amazon-)?(.*)(?<!(bg|_1))@4x\.png/';
 
 //Some of these come out with bad names, so this is a manual fix
 $map = array(
@@ -32,6 +32,10 @@ $map = array(
     'simplestorageservices3' => 's3',
     's3glacier' => 'glacier',
     'elasticsearchservice' => 'es',
+    'elasticloadbalancing' => 'elb',
+    'internetofthings' => 'iot',
+    'machinelearning' => 'ml',
+    'securityidentityandcompliance' => 'sic',
 );
 
 $emojis = array();

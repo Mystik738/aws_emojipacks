@@ -332,7 +332,7 @@ emojis:
 - name: ses
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ses.png
 - name: aws-shield
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/aws-shield.png
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/shield.png
 - name: sic
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sic.png
 - name: sitetositevpn

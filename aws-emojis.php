@@ -89,10 +89,11 @@ fwrite($npyml, "emojis:\n");
 fwrite($yml, "emojis:\n");
 foreach($emojis as $emoji) {
     fwrite($yml, "- name: aws-$emoji\n  src: $emoji_url".$emoji.".png\n");
+    $name = $emoji;
     if(in_array($emoji, $conflicts)) {
-        $emoji = 'aws-'.$emoji;
+        $name = 'aws-'.$emoji;
     }
-    fwrite($npyml, "- name: $emoji\n  src: $emoji_url".$emoji.".png\n");
+    fwrite($npyml, "- name: $name\n  src: $emoji_url".$emoji.".png\n");
 }
 fclose($npyml);
 fclose($yml);

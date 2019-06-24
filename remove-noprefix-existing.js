@@ -1,0 +1,16 @@
+emojis = [':ads:',':amplify:',':apigateway:',':appmesh:',':appstream:',':appsync:',':artifact:',':athena:',':aurora:',':autoscaling:',':backup:',':batch:',':budgets:',':certificatemanager:',':chime:',':cli:',':clientvpn:',':cloud9:',':clouddirectory:',':cloudformation:',':cloudfront:',':cloudhsm:',':cloudmap:',':cloudsearch:',':cloudtrail:',':cloudwatch:',':codebuild:',':codecommit:',':codedeploy:',':codepipeline:',':codestar:',':cognito:',':comprehend:',':config:',':connect:',':controltower:',':costandusagereport:',':costexplorer:',':costmanagement:',':datapipeline:',':datasync:',':deeplearningamis:',':deeplearningcontainers:',':deeplens:',':deepracer:',':devicefarm:',':directconnect:',':directoryservice:',':dms:',':documentdbwithmongodbcompatibility:',':dynamodb:',':ebs:',':ec2:',':ec2autoscaling:',':ecr:',':ecs:',':ecs4k:',':efs:',':elasticache:',':elasticbeanstalk:',':elasticinference:',':elastictranscoder:',':elementalmediaconnect:',':elementalmedialive:',':elementalmediapackage:',':elementalmediastore:',':elementalmediatailor:',':emr:',':es:',':fargate:',':firewallmanager:',':forecast:',':freertos:',':fsx:',':fsxforlustre:',':fsxforwindowsfileserver:',':gamelift:',':glacier:',':globalaccelerator:',':glue:',':groundstation:',':guardduty:',':iam:',':inspector:',':iot1click:',':iotanalytics:',':iotbutton:',':iotcore:',':iotdevicedefender:',':iotdevicemanagement:',':iotevents:',':iotgreengrass:',':iotsitewise:',':iotthingsgraph:',':kinesis:',':kinesisdataanalytics:',':kinesisdatafirehose:',':kinesisdatastreams:',':kinesisvideostreams:',':kms:',':lakeformation:',':lambda:',':lex:',':licensemanager:',':lightsail:',':macie:',':managedblockchain:',':managedservices:',':managedstreamingforkafka:',':managementconsole:',':marketplace:',':migrationhub:',':mq:',':neptune:',':opsworks:',':organizations:',':outposts:',':personalhealthdashboard:',':personalize:',':pinpoint:',':polly:',':privatelink:',':quantumledgerdatabaseqldb:',':quicksight:',':ram:',':rds:',':rdsonvmware:',':redshift:',':rekognition:',':robomaker:',':route53:',':s3:',':sagemaker:',':sagemakergroundtruth:',':secretsmanager:',':securityhub:',':serverlessapplicationrepository:',':servermigrationservice:',':servicecatalog:',':ses:',':shield:',':sitetositevpn:',':snowball:',':snowballedge:',':snowmobile:',':sns:',':sqs:',':sso:',':stepfunctions:',':storagegateway:',':sumerian:',':systemsmanager:',':textract:',':timestream:',':toolsandsdks:',':transcribe:',':transferforsftp:',':transitgateway:',':translate:',':trustedadvisor:',':vpc:',':waf:',':wellarchitectedtool:',':workdocs:',':worklink:',':workmail:',':workspaces:',':xray:'];
+
+function killer() {
+    er = document.getElementsByClassName('p-customize_emoji_list__row');
+    for (e of er) {
+      text = e.getElementsByClassName('black').item(0).innerText;
+
+        if (emojis.indexOf(text) != -1) {
+            e.getElementsByClassName('c-button-unstyled').item(0).click();
+            setTimeout(function(){document.getElementsByClassName('c-button--danger').item(0).click();},200);
+            return;
+        }
+    }
+  }
+  
+  ki = setInterval(killer, 500);

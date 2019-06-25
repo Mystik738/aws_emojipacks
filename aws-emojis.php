@@ -33,7 +33,6 @@ $map = array(
     'elasticsearchservice' => 'ess',
     'elasticloadbalancing' => 'elb',
     'internetofthings' => 'iot',
-    'machinelearning' => 'ml',
     'securityidentityandcompliance' => 'sic',
 );
 

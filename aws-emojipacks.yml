@@ -219,8 +219,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/translate.png
 - name: aws-apachemxnetonaws
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/apachemxnetonaws.png
-- name: aws-ml
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ml.png
+- name: aws-machinelearning
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/machinelearning.png
 - name: aws-tensorflowonaws
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/tensorflowonaws.png
 - name: aws-autoscaling

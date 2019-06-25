@@ -317,7 +317,7 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sagemaker.png
 - name: sagemakergroundtruth
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sagemakergroundtruth.png
-- name: satellite
+- name: aws-satellite
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/satellite.png
 - name: secretsmanager
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/secretsmanager.png

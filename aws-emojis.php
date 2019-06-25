@@ -39,7 +39,8 @@ $map = array(
 
 //If there are any conflicts with stock emojis, list them here so they'll get prefixed regardless.
 $conflicts = array(
-    'shield'
+    'shield',
+    'satellite',
 );
 
 $emojis = array();
@@ -97,46 +98,5 @@ foreach($emojis as $emoji) {
 }
 fclose($npyml);
 fclose($yml);
-
-/*
-* This is a hack; Slack won't overwrite existing emojis so we need to delete them first. 
-* This is pretty easy to do in the console, so this is a little js to inject when you're on {workspace}.slack.com/customize/emoji
-* You may need to scoll through all your emojis for this to run completely
-*/
-
-$npjs = fopen('remove-noprefix-existing.js','w');
-$js = fopen('remove-aws-existing.js','w');
-$npjsarr = array();
-$jsarr = array();
-
-foreach($emojis as $emoji) {
-    $npjsarr[] = ":$emoji:";
-    $jsarr[] = ":aws-$emoji:";
-}
-
-$npjsarr = "['".implode("','", $npjsarr)."']";
-$jsarr = "['".implode("','", $jsarr)."']";
-
-$postfix = "function killer() {
-    er = document.getElementsByClassName('p-customize_emoji_list__row');
-    for (e of er) {
-      text = e.getElementsByClassName('black').item(0).innerText;
-
-        if (emojis.indexOf(text) != -1) {
-            e.getElementsByClassName('c-button-unstyled').item(0).click();
-            setTimeout(function(){document.getElementsByClassName('c-button--danger').item(0).click();},200);
-            return;
-        }
-    }
-  }
-  
-  ki = setInterval(killer, 500);";
-
-
-fwrite($js, "emojis = $jsarr;\n\n".$postfix);
-fwrite($npjs, "emojis = $npjsarr;\n\n".$postfix);
-
-fclose($js);
-fclose($npjs);
 
 ?>

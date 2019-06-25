@@ -43,6 +43,11 @@ $conflicts = array(
     'satellite',
 );
 
+//If there are any emojis that we want to skip, list them here so they'll get skipped
+$skip = array(
+    'groupnamelightbgcopy5'
+);
+
 $emojis = array();
 
 //The .zip has a subdirectory structure, so we need to traverse it.
@@ -66,13 +71,15 @@ foreach($subdirs as $subdir) {
                     $emoji = $map[$emoji];
                 }
 
-                //Add it to our array of emojis
-                if(!isset($emojis[$emoji])) {
-                    $emojis[$emoji] = $emoji;
+                if(!in_array($emoji, $skip)) {
+                    //Add it to our array of emojis
+                    if(!isset($emojis[$emoji])) {
+                        $emojis[$emoji] = $emoji;
 
-                    //move it to our emoji directory.
-                    $file_loc =  $dir.$subdir.'/'.$file;
-                    copy($file_loc, $emoji_dir.$emoji.".png");
+                        //move it to our emoji directory.
+                        $file_loc =  $dir.$subdir.'/'.$file;
+                        copy($file_loc, $emoji_dir.$emoji.".png");
+                    }
                 }
             }
         }
@@ -81,7 +88,7 @@ foreach($subdirs as $subdir) {
 }
 
 //Sort alphabetically, just to make the .yml files look nice.
-sort($emojis);
+//sort($emojis);
 
 //Write our yaml files
 $npyml = fopen('noprefix-emojipacks.yml', 'w');
@@ -94,6 +101,7 @@ foreach($emojis as $emoji) {
     if(in_array($emoji, $conflicts)) {
         $name = 'aws-'.$emoji;
     }
+
     fwrite($npyml, "- name: $name\n  src: $emoji_url".$emoji.".png\n");
 }
 fclose($npyml);

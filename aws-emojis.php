@@ -87,7 +87,7 @@ foreach($subdirs as $subdir) {
 }
 
 //Sort alphabetically, just to make the .yml files look nice.
-//sort($emojis);
+sort($emojis);
 
 //Write our yaml files
 $npyml = fopen('noprefix-emojipacks.yml', 'w');

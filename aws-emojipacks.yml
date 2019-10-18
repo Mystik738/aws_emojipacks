@@ -49,6 +49,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/clientvpn.png
 - name: aws-cloud9
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cloud9.png
+- name: aws-clouddevelopmentkit
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/clouddevelopmentkit.png
 - name: aws-clouddirectory
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/clouddirectory.png
 - name: aws-cloudformation
@@ -135,8 +137,6 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ecr.png
 - name: aws-ecs
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ecs.png
-- name: aws-ecs4k
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ecs4k.png
 - name: aws-efs
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/efs.png
 - name: aws-elasticache
@@ -145,12 +145,16 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elasticbeanstalk.png
 - name: aws-elasticinference
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elasticinference.png
+- name: aws-elastickubernetesservice
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elastickubernetesservice.png
 - name: aws-elastictranscoder
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elastictranscoder.png
 - name: aws-elb
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elb.png
 - name: aws-elementalmediaconnect
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediaconnect.png
+- name: aws-elementalmediaconvert
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediaconvert.png
 - name: aws-elementalmedialive
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmedialive.png
 - name: aws-elementalmediapackage
@@ -163,6 +167,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/emr.png
 - name: aws-ess
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ess.png
+- name: aws-eventbridge
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/eventbridge.png
 - name: aws-fargate
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/fargate.png
 - name: aws-firewallmanager
@@ -209,8 +215,8 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotcore.png
 - name: aws-iotdevicedefender
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotdevicedefender.png
-- name: aws-iotdevicemanagement
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotdevicemanagement.png
+- name: aws-iotdevicrmanagement
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotdevicrmanagement.png
 - name: aws-iotevents
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotevents.png
 - name: aws-iotgreengrass
@@ -361,6 +367,20 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/tensorflowonaws.png
 - name: aws-textract
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/textract.png
+- name: aws-thinkboxdeadline
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/thinkboxdeadline.png
+- name: aws-thinkboxdraft
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/thinkboxdraft.png
+- name: aws-thinkboxfrost
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/thinkboxfrost.png
+- name: aws-thinkboxkrakatoa
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/thinkboxkrakatoa.png
+- name: aws-thinkboxsequoia
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/thinkboxsequoia.png
+- name: aws-thinkboxstoke
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/thinkboxstoke.png
+- name: aws-thinkboxxmesh
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/thinkboxxmesh.png
 - name: aws-timestream
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/timestream.png
 - name: aws-toolsandsdks

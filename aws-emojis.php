@@ -16,12 +16,20 @@ if(file_exists($file)) {
     }
 
     //A few "constants"
-    $dir = substr($file, 0, strpos($file, '.')).'/PNG Light/';
+    $dir = substr($file, 0, strpos($file, '.'));
+    //Directory structure changed, we need to get the Service icons
+    foreach(scandir($dir) as $elem) {
+        if(strpos($elem, "ervice") !== false) {
+            $dir = $dir."/".$elem."/";
+            break;
+        }
+    }
+
     $emoji_dir = 'emojis/';
     $emoji_url = 'https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/';
 
     $subdirs = scandir($dir);
-    $pattern = '/(AWS-|Amazon-)?(.*)(?<!(bg|_1))@4x\.png/';
+    $pattern = '/Arch_(AWS-|Amazon-)?(.*)_64@5x\.png/';
 
     //Some of these come out with bad names, so this is a manual fix
     $map = array(
@@ -66,9 +74,13 @@ if(file_exists($file)) {
     //The .zip has a subdirectory structure, so we need to traverse it.
     foreach($subdirs as $subdir) {
         //If this is a directory we're interested in
-        if(! in_array($subdir, array('.','..')) && !is_file($subdir)) {
+        if(! in_array($subdir, array('.','..', '.DS_Store')) && !is_file($subdir)) {
             //Get all the files
-            $files = scandir($dir.$subdir);
+            $dir64 = $dir.$subdir."/Arch_64";
+            if(!is_dir($dir64)) {
+                $dir64 = $dir.$subdir."/64";
+            }
+            $files = scandir($dir64);
 
             //Traverse through the files
             foreach($files as $file) {
@@ -90,7 +102,7 @@ if(file_exists($file)) {
                             $emojis[$emoji] = $emoji;
 
                             //move it to our emoji directory.
-                            $file_loc =  $dir.$subdir.'/'.$file;
+                            $file_loc =  $dir64.'/'.$file;
                             copy($file_loc, $emoji_dir.$emoji.".png");
                         }
                     }

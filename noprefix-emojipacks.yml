@@ -3,56 +3,64 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ads.png
 - name: alexaforbusiness
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/alexaforbusiness.png
-- name: amplify
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/amplify.png
-- name: analytics
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/analytics.png
-- name: apachemxnetonaws
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/apachemxnetonaws.png
+- name: amplifyconsole
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/amplifyconsole.png
+- name: apachemxnet
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/apachemxnet.png
 - name: apigateway
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/apigateway.png
-- name: applicationintegration
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/applicationintegration.png
+- name: appconfig
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appconfig.png
+- name: applicationautoscaling
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/applicationautoscaling.png
 - name: appmesh
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appmesh.png
 - name: appstream
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appstream.png
 - name: appsync
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appsync.png
+- name: appwizard
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/appwizard.png
 - name: artifact
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/artifact.png
-- name: arvr
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/arvr.png
 - name: athena
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/athena.png
+- name: augmentedaia2i
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/augmentedaia2i.png
 - name: aurora
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/aurora.png
 - name: autoscaling
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/autoscaling.png
+- name: backintagent
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/backintagent.png
 - name: backup
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/backup.png
 - name: batch
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/batch.png
-- name: blockchain
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/blockchain.png
+- name: bottlerocket
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/bottlerocket.png
+- name: braket
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/braket.png
 - name: budgets
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/budgets.png
-- name: businessapplications
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/businessapplications.png
 - name: certificatemanager
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/certificatemanager.png
+- name: chatbot
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/chatbot.png
 - name: chime
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/chime.png
 - name: cli
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cli.png
-- name: clientvpn
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/clientvpn.png
 - name: cloud9
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cloud9.png
 - name: clouddevelopmentkit
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/clouddevelopmentkit.png
 - name: clouddirectory
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/clouddirectory.png
+- name: cloudenduredisasterrecovery
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cloudenduredisasterrecovery.png
+- name: cloudenduremigration
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cloudenduremigration.png
 - name: cloudformation
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cloudformation.png
 - name: cloudfront
@@ -67,12 +75,16 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cloudtrail.png
 - name: cloudwatch
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cloudwatch.png
+- name: codeartifact
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/codeartifact.png
 - name: codebuild
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/codebuild.png
 - name: codecommit
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/codecommit.png
 - name: codedeploy
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/codedeploy.png
+- name: codeguru
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/codeguru.png
 - name: codepipeline
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/codepipeline.png
 - name: codestar
@@ -81,76 +93,84 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/cognito.png
 - name: comprehend
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/comprehend.png
-- name: compute
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/compute.png
+- name: computeoptimizer
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/computeoptimizer.png
 - name: config
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/config.png
 - name: connect
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/connect.png
+- name: consolemobileapplication
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/consolemobileapplication.png
 - name: controltower
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/controltower.png
 - name: costandusagereport
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/costandusagereport.png
 - name: costexplorer
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/costexplorer.png
-- name: costmanagement
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/costmanagement.png
-- name: customerengagement
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/customerengagement.png
-- name: database
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/database.png
+- name: databasemigration
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/databasemigration.png
+- name: dataexchange
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/dataexchange.png
 - name: datapipeline
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/datapipeline.png
 - name: datasync
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/datasync.png
+- name: deepcomposer
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/deepcomposer.png
 - name: deeplearningamis
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/deeplearningamis.png
 - name: deeplearningcontainers
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/deeplearningcontainers.png
-- name: deeplens
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/deeplens.png
+- name: deeplense
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/deeplense.png
 - name: deepracer
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/deepracer.png
-- name: desktopandappstreaming
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/desktopandappstreaming.png
-- name: developertools
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/developertools.png
+- name: detective
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/detective.png
 - name: devicefarm
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/devicefarm.png
 - name: directconnect
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/directconnect.png
 - name: directoryservice
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/directoryservice.png
-- name: dms
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/dms.png
-- name: documentdbwithmongodbcompatibility
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/documentdbwithmongodbcompatibility.png
+- name: documentdb
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/documentdb.png
 - name: dynamodb
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/dynamodb.png
-- name: ebs
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ebs.png
 - name: ec2
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ec2.png
 - name: ec2autoscaling
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ec2autoscaling.png
-- name: ecr
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ecr.png
+- name: ec2imagebuilder
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ec2imagebuilder.png
+- name: ec2m5n
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ec2m5n.png
+- name: ec2r5n
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ec2r5n.png
 - name: ecs
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ecs.png
-- name: efs
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/efs.png
 - name: elasticache
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elasticache.png
 - name: elasticbeanstalk
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elasticbeanstalk.png
+- name: elasticblockstore
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elasticblockstore.png
+- name: elasticcontainerkubernetes
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elasticcontainerkubernetes.png
+- name: elasticcontainerregistry
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elasticcontainerregistry.png
+- name: elasticfilesystem
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elasticfilesystem.png
 - name: elasticinference
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elasticinference.png
-- name: elastickubernetesservice
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elastickubernetesservice.png
 - name: elastictranscoder
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elastictranscoder.png
 - name: elb
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elb.png
+- name: elementalappliancessoftware
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalappliancessoftware.png
+- name: elementallink
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementallink.png
 - name: elementalmediaconnect
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/elementalmediaconnect.png
 - name: elementalmediaconvert
@@ -169,26 +189,26 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ess.png
 - name: eventbridge
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/eventbridge.png
+- name: expressworkflow
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/expressworkflow.png
 - name: fargate
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/fargate.png
 - name: firewallmanager
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/firewallmanager.png
 - name: forecast
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/forecast.png
+- name: frauddetector
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/frauddetector.png
 - name: freertos
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/freertos.png
 - name: fsx
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/fsx.png
 - name: fsxforlustre
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/fsxforlustre.png
-- name: fsxforwindowsfileserver
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/fsxforwindowsfileserver.png
+- name: fsxforwfs
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/fsxforwfs.png
 - name: gamelift
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/gamelift.png
-- name: gametech
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/gametech.png
-- name: general
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/general.png
 - name: glacier
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/glacier.png
 - name: globalaccelerator
@@ -199,12 +219,14 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/groundstation.png
 - name: guardduty
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/guardduty.png
-- name: iam
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iam.png
+- name: identityandaccessmanagement
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/identityandaccessmanagement.png
+- name: infrequentaccessstorageclass
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/infrequentaccessstorageclass.png
 - name: inspector
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/inspector.png
-- name: iot
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iot.png
+- name: interactivevideo
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/interactivevideo.png
 - name: iot1click
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iot1click.png
 - name: iotanalytics
@@ -215,28 +237,34 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotcore.png
 - name: iotdevicedefender
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotdevicedefender.png
-- name: iotdevicrmanagement
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotdevicrmanagement.png
+- name: iotdevicemanagement
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotdevicemanagement.png
 - name: iotevents
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotevents.png
-- name: iotgreengrass
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotgreengrass.png
+- name: iotgreengrasscore
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotgreengrasscore.png
 - name: iotsitewise
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotsitewise.png
 - name: iotthingsgraph
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iotthingsgraph.png
+- name: iq
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/iq.png
+- name: kendra
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kendra.png
+- name: keymanagementservices
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/keymanagementservices.png
+- name: keyspaces
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/keyspaces.png
 - name: kinesis
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesis.png
 - name: kinesisdataanalytics
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesisdataanalytics.png
-- name: kinesisdatafirehose
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesisdatafirehose.png
 - name: kinesisdatastreams
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesisdatastreams.png
+- name: kinesisfirehose
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesisfirehose.png
 - name: kinesisvideostreams
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kinesisvideostreams.png
-- name: kms
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/kms.png
 - name: lakeformation
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/lakeformation.png
 - name: lambda
@@ -247,8 +275,10 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/licensemanager.png
 - name: lightsail
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/lightsail.png
-- name: machinelearning
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/machinelearning.png
+- name: localzones
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/localzones.png
+- name: lumberyard
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/lumberyard.png
 - name: macie
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/macie.png
 - name: managedblockchain
@@ -257,72 +287,70 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/managedservices.png
 - name: managedstreamingforkafka
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/managedstreamingforkafka.png
-- name: managementandgovernance
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/managementandgovernance.png
 - name: managementconsole
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/managementconsole.png
-- name: marketplace
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/marketplace.png
-- name: mediaservices
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/mediaservices.png
-- name: migrationandtransfer
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/migrationandtransfer.png
 - name: migrationhub
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/migrationhub.png
-- name: mobile
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/mobile.png
 - name: mq
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/mq.png
 - name: neptune
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/neptune.png
-- name: networkingandcontentdelivery
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/networkingandcontentdelivery.png
+- name: neuronmlsdk
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/neuronmlsdk.png
+- name: nitroenclaves
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/nitroenclaves.png
 - name: opsworks
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/opsworks.png
 - name: organizations
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/organizations.png
 - name: outposts
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/outposts.png
+- name: parallelcluster
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/parallelcluster.png
 - name: personalhealthdashboard
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/personalhealthdashboard.png
 - name: personalize
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/personalize.png
 - name: pinpoint
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/pinpoint.png
+- name: pinpointjourney
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/pinpointjourney.png
 - name: polly
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/polly.png
 - name: privatelink
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/privatelink.png
-- name: quantumledgerdatabaseqldb
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/quantumledgerdatabaseqldb.png
+- name: professionalservices
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/professionalservices.png
+- name: quantumledgerdatabase
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/quantumledgerdatabase.png
 - name: quicksight
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/quicksight.png
 - name: rds
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rds.png
-- name: rdsonvmware
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rdsonvmware.png
+- name: rdsforvmware
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rdsforvmware.png
 - name: redshift
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/redshift.png
+- name: redshiftct
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/redshiftct.png
 - name: rekognition
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/rekognition.png
 - name: reservedinstancereporting
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/reservedinstancereporting.png
-- name: resourceaccessmanager
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/resourceaccessmanager.png
+- name: resourcesaccessmanager
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/resourcesaccessmanager.png
 - name: robomaker
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/robomaker.png
-- name: robotics
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/robotics.png
 - name: route53
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/route53.png
-- name: s3
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/s3.png
+- name: s3standard
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/s3standard.png
 - name: sagemaker
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sagemaker.png
 - name: sagemakergroundtruth
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sagemakergroundtruth.png
-- name: aws-satellite
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/satellite.png
+- name: savingsplans
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/savingsplans.png
 - name: secretsmanager
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/secretsmanager.png
 - name: securityhub
@@ -333,34 +361,36 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/servermigrationservice.png
 - name: servicecatalog
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/servicecatalog.png
-- name: ses
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/ses.png
 - name: aws-shield
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/shield.png
-- name: sic
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sic.png
+- name: simpleemailservice
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/simpleemailservice.png
+- name: simplenotificationservice
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/simplenotificationservice.png
+- name: simplequeueservice
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/simplequeueservice.png
 - name: sitetositevpn
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sitetositevpn.png
 - name: snowball
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowball.png
 - name: snowballedge
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowballedge.png
+- name: snowcone
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowcone.png
 - name: snowmobile
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/snowmobile.png
-- name: sns
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sns.png
-- name: sqs
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sqs.png
 - name: sso
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sso.png
+- name: standardstorageclass
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/standardstorageclass.png
 - name: stepfunctions
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/stepfunctions.png
-- name: storage
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/storage.png
 - name: storagegateway
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/storagegateway.png
 - name: sumerian
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/sumerian.png
+- name: support
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/support.png
 - name: systemsmanager
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/systemsmanager.png
 - name: tensorflowonaws
@@ -369,8 +399,6 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/textract.png
 - name: thinkboxdeadline
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/thinkboxdeadline.png
-- name: thinkboxdraft
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/thinkboxdraft.png
 - name: thinkboxfrost
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/thinkboxfrost.png
 - name: thinkboxkrakatoa
@@ -383,26 +411,34 @@ emojis:
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/thinkboxxmesh.png
 - name: timestream
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/timestream.png
-- name: toolsandsdks
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/toolsandsdks.png
+- name: toolsandsdk
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/toolsandsdk.png
+- name: torchserve
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/torchserve.png
+- name: trainingcertification
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/trainingcertification.png
 - name: transcribe
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/transcribe.png
-- name: transferforsftp
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/transferforsftp.png
+- name: transferfamily
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/transferfamily.png
 - name: transitgateway
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/transitgateway.png
 - name: translate
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/translate.png
 - name: trustedadvisor
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/trustedadvisor.png
+- name: virtualprivatecloud
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/virtualprivatecloud.png
 - name: vmwarecloudonaws
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/vmwarecloudonaws.png
-- name: vpc
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/vpc.png
+- name: vpn
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/vpn.png
 - name: waf
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/waf.png
-- name: wellarchitectedtool
-  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/wellarchitectedtool.png
+- name: wavelength
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/wavelength.png
+- name: wellarchitecttool
+  src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/wellarchitecttool.png
 - name: workdocs
   src: https://raw.githubusercontent.com/Mystik738/aws_emojipacks/master/emojis/workdocs.png
 - name: worklink
